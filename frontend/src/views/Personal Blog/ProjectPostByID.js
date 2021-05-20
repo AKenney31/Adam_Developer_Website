@@ -1,0 +1,1 @@
+//This view allows the user to view the project as a whole and see all of the info on the selected project.

@@ -1,0 +1,1 @@
+//This view will be a list of the current blog posts in order from most recent to oldest.
